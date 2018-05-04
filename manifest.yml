@@ -3,7 +3,7 @@
 applications:
 - name: nyu-lab-bluemix-hjc441
   memory: 64M
-  instances: 1
+  instances: 2
   #random-route: true
   host: nyu-lab-bluemix-hjc441
   domain: mybluemix.net
